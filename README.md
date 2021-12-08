@@ -1,5 +1,5 @@
 ## Hi, i'm Pedro Karpinski Neto! I'm Front-end developer!
-<div style="display: flex" align="center">
+<div style="display: flex" style="flex-wrap: no-wrap" align="center">
   <a href="https://github.com/KarpaNeto">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KarpaNeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarpaNeto&layout=compact&langs_count=7&theme=dracula"/>
